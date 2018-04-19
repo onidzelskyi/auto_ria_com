@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "muuze-195611",
+  "private_key_id": "8cc700af7817b053ec1c468c06aafdd68bbb9c97",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC+m6GlxpO8VjVh\nMBCzXZ+BKKJblTUQwI/TmctfDDswwGcddKBrgDaAS+GyKuzUp2DxkQeHYFOpjggO\npaPAbX12bX7O1Xr96Hljw2dPfTb0j7zHtCaxnuGX2uVkMy7MrDuVXWNnHAJWSW/4\nlCaYjoYisgXeh4FdM0lJXCpu4XbmKlGrxQSStxjf4Z/jvDZgeagL9M5Ag+QEf9rp\n5gxGWHsGfsuw53GCFZt3yIuC0A1Ep20wrRGZ7gUx3yTZhDisDONn3deSHKf8V1Q4\nF5IQmS/PJUKKRp473w8Cc35nW7vvt2kJG3OIAq7XbL53zBzNTb5WuqUEyMLUlLvQ\n773nrN0XAgMBAAECggEAFFq9R90tUJrqJ19BIU5ZpqrGr73+xTOzCDcvsw400e9x\n84DNUr2F1GyGBQc1dD4Nia5hnfDI7l3W+W1xz65BjCCEPqUoda3aLK+kvCXUdQhW\ncgMIcMZVM+ixv2IB2OR5lmk7ILsqerlr5iE3/+mUZGcbXlidFW1RIa7gbyfPkSN7\nl7MIA6A78uR46cmS8FX4JJAPD4su7Go+ZjN7NS2fA6iYkxhvkrQAAlIlvjynEggI\nwhgB0eqUHbgYl5vP80WfSeqxJAkxIxHRtLaZKVtWfp8ugneB9IKqVu1QWaS/3BF3\n7axSVWosdETOOSk/t5ECkWWls7XQckFp7B99XniLiQKBgQDfcqIBzjoZmbgLbcJV\n3qB/BvGUasqU6AOBsoezGDWyO6FiATtF4UWhuBCAAlWAW4kFCqK5m+Vn5adVGfPp\nlZoGOmhikOTSfPQ7kAAZlRNHpnR0C001fxxystH0lmF00hJvpFIy2J9knydlgS0u\nFzH9Wbej5ZUHeT14ab0ToqFzmQKBgQDaYED2H6crmn+x0xIe6iz7ftnLniap+Hei\n9kxkKpy7il8h9y9DrIiL+yeN8qDNFQvxJsyCdrGuwOE8PCNM8dk15i9Qb3lgsMCe\nknZTQ8a7E5P1hUiWeqOGEUaqUYzVH4jYSMaLqflOaQWEWPvGbRHRUwnN8+RB90iN\nSrljCHRELwKBgQCAyWRg4AkSqkuuoqNotLkSneDtZyO98X/b6BdYfTKtuLrKbuVH\n4JAuppU0AqRfJ+LwefHSQu1VFcN9REkWL3in8FArx1FrlEN8dQHpvMdw+5qRK9Zj\naBDwduqWK3qeR1oC6NXLopkz+JtPYMW2k/3nBSfYGkHsHc/1MBSfVZPyuQKBgHjj\ngBLAQxLoXHhcmFN036H5/yexTUYavmAAaRmqXUmUuEVdSVT1VkHnr2XtQwdE929w\nQxaWDpbnP8jQodoeqFgmLVsh2tekAX3HJqnBg2pc1DO+rQhgq9W0CqKOsp/o7SCO\naRs35UN68ArsF7Uo/AwdI/hXY60A77EIBMjGDVcRAoGBAKWaZbSAOQPsi+NaniJF\npIRCDc8DMiUUypyVMGLPS8EpAjo62pUp7bKkzjQVPuVutk/YqK+aR8PoWBAhSNZ0\nThDhGWKEFMamsvn2Sp1tTfrcFXXBR4DdQBNRKChMV9lhKdAz45FDlAI7AnpOExtV\nkUPuSKbOktZWBLtZHcm6PyWw\n-----END PRIVATE KEY-----\n",
+  "client_email": "auto-ria-com@muuze-195611.iam.gserviceaccount.com",
+  "client_id": "111728644966723748893",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/auto-ria-com%40muuze-195611.iam.gserviceaccount.com"
+}
