@@ -93,6 +93,7 @@ ITEM_PIPELINES = {
     # 'auto_ria_com.pipelines.AutoRiaComPipeline': 300,
 }
 IMAGES_STORE = 'images'
+# FILES_STORE = "image_files"
 # IMAGES_STORE = 'gs://auto_ria_com/'
 # GCS_PROJECT_ID = 'muuze-195611'
 #

@@ -40,3 +40,16 @@ hashlib.sha1(b'http://dp.ukrgo.com/pictures/ukrgo_id_20275480.jpg').hexdigest()
 >>> ec2b2751289ed2c1ef35efc917c609dad0012d2e
 ```
 
+MySQL
+=====
+
+Connect to Google Cloud SQL instance
+```
+mysql -h 35.194.38.30 -u root -p
+```
+
+Save data in json file
+======================
+```
+scrapy crawl cars -o data.json
+```

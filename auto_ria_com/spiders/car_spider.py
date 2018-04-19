@@ -103,12 +103,13 @@ class CarSpider(scrapy.Spider):
         """Parse car details page."""
         # manufacture, model, year = response.css(CSS_CAR_DETAILS).extract_first().split()
         car_detail_items = response.xpath(XPATH_CAR_DETAILS).extract_first().split()
-        manufacture = car_detail_items[0]
-        model = car_detail_items[1]
+        manufacture = car_detail_items[1]
+        model = car_detail_items[2]
         year = car_detail_items[-1]
         car_image_url = response.xpath(XPATH_CAR_IMAGE_URL).extract()
 
         yield AutoRiaComItem(image_urls=car_image_url,
+                             # file_urls=car_image_url,
                              manufacture=manufacture,
                              model=model,
                              year=year,

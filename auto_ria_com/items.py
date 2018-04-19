@@ -11,6 +11,8 @@ import scrapy
 class AutoRiaComItem(scrapy.Item):
     _id = scrapy.Field()
     image_urls = scrapy.Field()
+    # file_urls = scrapy.Field()
+    # files = scrapy.Field()
     images = scrapy.Field()
     manufacture = scrapy.Field()
     model = scrapy.Field()
